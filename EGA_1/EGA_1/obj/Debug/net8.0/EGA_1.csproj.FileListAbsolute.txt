@@ -1,0 +1,14 @@
+C:\Users\Михаил\Desktop\учеба\C#\ЭГА\EGA_1\EGA_1\bin\Debug\net8.0\EGA_1.exe
+C:\Users\Михаил\Desktop\учеба\C#\ЭГА\EGA_1\EGA_1\bin\Debug\net8.0\EGA_1.deps.json
+C:\Users\Михаил\Desktop\учеба\C#\ЭГА\EGA_1\EGA_1\bin\Debug\net8.0\EGA_1.runtimeconfig.json
+C:\Users\Михаил\Desktop\учеба\C#\ЭГА\EGA_1\EGA_1\bin\Debug\net8.0\EGA_1.dll
+C:\Users\Михаил\Desktop\учеба\C#\ЭГА\EGA_1\EGA_1\bin\Debug\net8.0\EGA_1.pdb
+C:\Users\Михаил\Desktop\учеба\C#\ЭГА\EGA_1\EGA_1\obj\Debug\net8.0\EGA_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михаил\Desktop\учеба\C#\ЭГА\EGA_1\EGA_1\obj\Debug\net8.0\EGA_1.AssemblyInfoInputs.cache
+C:\Users\Михаил\Desktop\учеба\C#\ЭГА\EGA_1\EGA_1\obj\Debug\net8.0\EGA_1.AssemblyInfo.cs
+C:\Users\Михаил\Desktop\учеба\C#\ЭГА\EGA_1\EGA_1\obj\Debug\net8.0\EGA_1.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\учеба\C#\ЭГА\EGA_1\EGA_1\obj\Debug\net8.0\EGA_1.dll
+C:\Users\Михаил\Desktop\учеба\C#\ЭГА\EGA_1\EGA_1\obj\Debug\net8.0\refint\EGA_1.dll
+C:\Users\Михаил\Desktop\учеба\C#\ЭГА\EGA_1\EGA_1\obj\Debug\net8.0\EGA_1.pdb
+C:\Users\Михаил\Desktop\учеба\C#\ЭГА\EGA_1\EGA_1\obj\Debug\net8.0\EGA_1.genruntimeconfig.cache
+C:\Users\Михаил\Desktop\учеба\C#\ЭГА\EGA_1\EGA_1\obj\Debug\net8.0\ref\EGA_1.dll
