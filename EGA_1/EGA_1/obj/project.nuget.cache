@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "dC9X+UEH3QU=",
+  "dgSpecHash": "hWeu9ZXHEx8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Михаил\\Desktop\\учеба\\C#\\ЭГА\\EGA_1\\EGA_1\\EGA_1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Михаил\\Desktop\\учеба\\C#\\ЭГА\\EGA_Lab\\EGA_1\\EGA_1\\EGA_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Михаил\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.5\\microsoft.extensions.dependencyinjection.abstractions.10.0.5.nupkg.sha512",
+    "C:\\Users\\Михаил\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.5\\microsoft.extensions.logging.abstractions.10.0.5.nupkg.sha512",
+    "C:\\Users\\Михаил\\.nuget\\packages\\respite\\3.1.31\\respite.3.1.31.nupkg.sha512",
+    "C:\\Users\\Михаил\\.nuget\\packages\\stackexchange.redis\\3.1.31\\stackexchange.redis.3.1.31.nupkg.sha512",
+    "C:\\Users\\Михаил\\.nuget\\packages\\system.diagnostics.diagnosticsource\\10.0.5\\system.diagnostics.diagnosticsource.10.0.5.nupkg.sha512",
+    "C:\\Users\\Михаил\\.nuget\\packages\\system.io.hashing\\10.0.5\\system.io.hashing.10.0.5.nupkg.sha512",
+    "C:\\Users\\Михаил\\.nuget\\packages\\system.io.pipelines\\10.0.5\\system.io.pipelines.10.0.5.nupkg.sha512"
+  ],
   "logs": []
 }

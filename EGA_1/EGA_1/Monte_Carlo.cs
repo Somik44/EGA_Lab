@@ -1,28 +1,56 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Numerics;
 using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
+using StackExchange.Redis;
 
 namespace EGA_1
 {
     internal class Monte_Carlo
     {
+        ConnectionMultiplexer redis;
+        IDatabase db;
+        Random rnd;
+
+        public Monte_Carlo()
+        {
+            redis = ConnectionMultiplexer.Connect("localhost:6379");
+            db = redis.GetDatabase();
+            rnd = new Random();
+        }
+
         public void GetMap(Dictionary<string, int> map, int L)
         {
-            Random random = new Random();
-            Console.WriteLine("Ландшафт приспособленности:");
-            string nowValue;
-            int i;
-            for (i = 0; i < Math.Pow(2,L); i++)
+
+            bool exists = db.KeyExists("landscape:15");
+            int total = Convert.ToInt32(Math.Pow(2, L));
+            int i = 0;
+
+            if (!exists)
             {
-                nowValue = Convert.ToString(i, 2).PadLeft(L, '0');
-                map[nowValue] = random.Next(1, 101);
+                var entries = new HashEntry[total];
+                for (i = 0; i < total; i++)
+                {
+                    string key = Convert.ToString(i, 2).PadLeft(L, '0');
+                    int value = rnd.Next(1, 101);
+                    entries[i] = new HashEntry(key, value);
+                }
+                db.HashSet("landscape:15", entries);
             }
 
+            var hashEntries = db.HashGetAll("landscape:15");
+            foreach (var entry in hashEntries)
+            {
+                map[entry.Name.ToString()] = (int)entry.Value;
+            }
+
+            Console.WriteLine("Ландшафт приспособленности:");
+
             i = 0;
-            foreach(KeyValuePair<string, int> pair in map)
+            foreach (KeyValuePair<string, int> pair in map)
             {
                 Console.WriteLine($"{pair.Key} - {pair.Value}");
                 i++;
@@ -35,7 +63,6 @@ namespace EGA_1
             string maxS="";
             int max=0, oldMax = 0;
             bool flag = false;
-            Random rnd = new Random();
 
             List<string> keys = map.Keys.ToList();
 

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EGA_1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1c57a8b9148b233392e21957112d3cb2dc85f43")]
 [assembly: System.Reflection.AssemblyProductAttribute("EGA_1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EGA_1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
