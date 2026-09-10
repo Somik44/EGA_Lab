@@ -372,11 +372,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Михаил\\Desktop\\учеба\\C#\\ЭГА\\EGA_Lab\\EGA_1\\EGA_1\\EGA_1.csproj",
+      "projectUniqueName": "C:\\Users\\Михаил\\Desktop\\ЭГА\\EGA_Lab\\EGA_1\\EGA_1\\EGA_1.csproj",
       "projectName": "EGA_1",
-      "projectPath": "C:\\Users\\Михаил\\Desktop\\учеба\\C#\\ЭГА\\EGA_Lab\\EGA_1\\EGA_1\\EGA_1.csproj",
+      "projectPath": "C:\\Users\\Михаил\\Desktop\\ЭГА\\EGA_Lab\\EGA_1\\EGA_1\\EGA_1.csproj",
       "packagesPath": "C:\\Users\\Михаил\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Михаил\\Desktop\\учеба\\C#\\ЭГА\\EGA_Lab\\EGA_1\\EGA_1\\obj\\",
+      "outputPath": "C:\\Users\\Михаил\\Desktop\\ЭГА\\EGA_Lab\\EGA_1\\EGA_1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -436,7 +436,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

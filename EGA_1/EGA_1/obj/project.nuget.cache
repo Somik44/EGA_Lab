@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hWeu9ZXHEx8=",
+  "dgSpecHash": "kf/GnzlpvZE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Михаил\\Desktop\\учеба\\C#\\ЭГА\\EGA_Lab\\EGA_1\\EGA_1\\EGA_1.csproj",
+  "projectFilePath": "C:\\Users\\Михаил\\Desktop\\ЭГА\\EGA_Lab\\EGA_1\\EGA_1\\EGA_1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Михаил\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.5\\microsoft.extensions.dependencyinjection.abstractions.10.0.5.nupkg.sha512",
     "C:\\Users\\Михаил\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.5\\microsoft.extensions.logging.abstractions.10.0.5.nupkg.sha512",

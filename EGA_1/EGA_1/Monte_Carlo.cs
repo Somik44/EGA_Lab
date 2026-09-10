@@ -35,13 +35,13 @@ namespace EGA_1
                 for (i = 0; i < total; i++)
                 {
                     string key = Convert.ToString(i, 2).PadLeft(L, '0');
-                    int value = rnd.Next(1, 101);
+                    int value = rnd.Next(1, 10000);
                     entries[i] = new HashEntry(key, value);
                 }
                 db.HashSet("landscape:15", entries);
             }
 
-            var hashEntries = db.HashGetAll("landscape:15");
+            var hashEntries = db.HashGetAll("landscape:15").OrderBy(t => Convert.ToInt32(t.Key, 2));
             foreach (var entry in hashEntries)
             {
                 map[entry.Name.ToString()] = (int)entry.Value;
@@ -66,7 +66,7 @@ namespace EGA_1
 
             List<string> keys = map.Keys.ToList();
 
-            for (int i =0; i<N+1; i++)
+            for (int i =0; i<N; i++)
             {
                 int index = rnd.Next(keys.Count);
                 var nowKey = keys[index];
