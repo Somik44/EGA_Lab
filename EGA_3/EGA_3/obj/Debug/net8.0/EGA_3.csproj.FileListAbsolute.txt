@@ -1,0 +1,15 @@
+C:\Users\Михаил\Desktop\учеба\C#\ЭГА\EGA_Lab\EGA_3\EGA_3\bin\Debug\net8.0\EGA_3.exe
+C:\Users\Михаил\Desktop\учеба\C#\ЭГА\EGA_Lab\EGA_3\EGA_3\bin\Debug\net8.0\EGA_3.deps.json
+C:\Users\Михаил\Desktop\учеба\C#\ЭГА\EGA_Lab\EGA_3\EGA_3\bin\Debug\net8.0\EGA_3.runtimeconfig.json
+C:\Users\Михаил\Desktop\учеба\C#\ЭГА\EGA_Lab\EGA_3\EGA_3\bin\Debug\net8.0\EGA_3.dll
+C:\Users\Михаил\Desktop\учеба\C#\ЭГА\EGA_Lab\EGA_3\EGA_3\bin\Debug\net8.0\EGA_3.pdb
+C:\Users\Михаил\Desktop\учеба\C#\ЭГА\EGA_Lab\EGA_3\EGA_3\obj\Debug\net8.0\EGA_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михаил\Desktop\учеба\C#\ЭГА\EGA_Lab\EGA_3\EGA_3\obj\Debug\net8.0\EGA_3.AssemblyInfoInputs.cache
+C:\Users\Михаил\Desktop\учеба\C#\ЭГА\EGA_Lab\EGA_3\EGA_3\obj\Debug\net8.0\EGA_3.AssemblyInfo.cs
+C:\Users\Михаил\Desktop\учеба\C#\ЭГА\EGA_Lab\EGA_3\EGA_3\obj\Debug\net8.0\EGA_3.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\учеба\C#\ЭГА\EGA_Lab\EGA_3\EGA_3\obj\Debug\net8.0\EGA_3.sourcelink.json
+C:\Users\Михаил\Desktop\учеба\C#\ЭГА\EGA_Lab\EGA_3\EGA_3\obj\Debug\net8.0\EGA_3.dll
+C:\Users\Михаил\Desktop\учеба\C#\ЭГА\EGA_Lab\EGA_3\EGA_3\obj\Debug\net8.0\refint\EGA_3.dll
+C:\Users\Михаил\Desktop\учеба\C#\ЭГА\EGA_Lab\EGA_3\EGA_3\obj\Debug\net8.0\EGA_3.pdb
+C:\Users\Михаил\Desktop\учеба\C#\ЭГА\EGA_Lab\EGA_3\EGA_3\obj\Debug\net8.0\EGA_3.genruntimeconfig.cache
+C:\Users\Михаил\Desktop\учеба\C#\ЭГА\EGA_Lab\EGA_3\EGA_3\obj\Debug\net8.0\ref\EGA_3.dll

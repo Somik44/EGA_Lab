@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\C#\\\u042D\u0413\u0410\\EGA_Lab\\EGA_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F38391-88C5-4569-8D69-32047F5C1B6C}|EGA_3\\EGA_3.csproj|c:\\users\\\u043C\u0438\u0445\u0430\u0438\u043B\\desktop\\\u0443\u0447\u0435\u0431\u0430\\c#\\\u044D\u0433\u0430\\ega_lab\\ega_3\\ega_3\\hill\u0441limbing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F38391-88C5-4569-8D69-32047F5C1B6C}|EGA_3\\EGA_3.csproj|solutionrelative:ega_3\\hill\u0441limbing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F38391-88C5-4569-8D69-32047F5C1B6C}|EGA_3\\EGA_3.csproj|c:\\users\\\u043C\u0438\u0445\u0430\u0438\u043B\\desktop\\\u0443\u0447\u0435\u0431\u0430\\c#\\\u044D\u0433\u0430\\ega_lab\\ega_3\\ega_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F38391-88C5-4569-8D69-32047F5C1B6C}|EGA_3\\EGA_3.csproj|solutionrelative:ega_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hill\u0421limbing.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\C#\\\u042D\u0413\u0410\\EGA_Lab\\EGA_3\\EGA_3\\Hill\u0421limbing.cs",
+              "RelativeDocumentMoniker": "EGA_3\\Hill\u0421limbing.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\C#\\\u042D\u0413\u0410\\EGA_Lab\\EGA_3\\EGA_3\\Hill\u0421limbing.cs",
+              "RelativeToolTip": "EGA_3\\Hill\u0421limbing.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwE8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T10:10:27.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\C#\\\u042D\u0413\u0410\\EGA_Lab\\EGA_3\\EGA_3\\Program.cs",
+              "RelativeDocumentMoniker": "EGA_3\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\C#\\\u042D\u0413\u0410\\EGA_Lab\\EGA_3\\EGA_3\\Program.cs",
+              "RelativeToolTip": "EGA_3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T10:05:24.938Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
