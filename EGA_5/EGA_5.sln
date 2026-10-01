@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36804.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EGA_5", "EGA_5\EGA_5.csproj", "{F55FD182-F9BF-4E40-ADF0-7585A8D16000}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F55FD182-F9BF-4E40-ADF0-7585A8D16000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F55FD182-F9BF-4E40-ADF0-7585A8D16000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F55FD182-F9BF-4E40-ADF0-7585A8D16000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F55FD182-F9BF-4E40-ADF0-7585A8D16000}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76688C31-B0DC-4F86-927F-BFA9C07F3A41}
+	EndGlobalSection
+EndGlobal

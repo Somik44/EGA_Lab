@@ -7,7 +7,7 @@ class Program()
     {
         HillСlimbing hill = new HillСlimbing();
 
-        const int L = 5, N = 32;
+        const int L = 5, N = 5;
         Dictionary<string, int> map = new Dictionary<string, int>();
         hill.CreateMap(map, L);
         hill.Climbing(map, N);

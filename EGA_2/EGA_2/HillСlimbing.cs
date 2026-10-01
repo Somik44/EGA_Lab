@@ -22,11 +22,9 @@ namespace EGA_2
             }
             Console.WriteLine("Ландшафт приспособленности:");
 
-            i = 0;
             foreach (KeyValuePair<string, int> pair in map)
             {
                 Console.WriteLine($"{pair.Key} - {pair.Value}");
-                i++;
             }
         }
 

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u042D\u0413\u0410\\EGA_Lab\\EGA_4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5007D86C-68B4-4ACE-9CF3-7245D1EB5C29}|EGA_4\\EGA_4.csproj|c:\\users\\\u043C\u0438\u0445\u0430\u0438\u043B\\desktop\\\u044D\u0433\u0430\\ega_lab\\ega_4\\ega_4\\createmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5007D86C-68B4-4ACE-9CF3-7245D1EB5C29}|EGA_4\\EGA_4.csproj|solutionrelative:ega_4\\createmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5007D86C-68B4-4ACE-9CF3-7245D1EB5C29}|EGA_4\\EGA_4.csproj|c:\\users\\\u043C\u0438\u0445\u0430\u0438\u043B\\desktop\\\u044D\u0433\u0430\\ega_lab\\ega_4\\ega_4\\multiplelaunch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5007D86C-68B4-4ACE-9CF3-7245D1EB5C29}|EGA_4\\EGA_4.csproj|solutionrelative:ega_4\\multiplelaunch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5007D86C-68B4-4ACE-9CF3-7245D1EB5C29}|EGA_4\\EGA_4.csproj|c:\\users\\\u043C\u0438\u0445\u0430\u0438\u043B\\desktop\\\u044D\u0433\u0430\\ega_lab\\ega_4\\ega_4\\hill\u0441limbingwidth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5007D86C-68B4-4ACE-9CF3-7245D1EB5C29}|EGA_4\\EGA_4.csproj|solutionrelative:ega_4\\hill\u0441limbingwidth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5007D86C-68B4-4ACE-9CF3-7245D1EB5C29}|EGA_4\\EGA_4.csproj|c:\\users\\\u043C\u0438\u0445\u0430\u0438\u043B\\desktop\\\u044D\u0433\u0430\\ega_lab\\ega_4\\ega_4\\createmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5007D86C-68B4-4ACE-9CF3-7245D1EB5C29}|EGA_4\\EGA_4.csproj|solutionrelative:ega_4\\createmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5007D86C-68B4-4ACE-9CF3-7245D1EB5C29}|EGA_4\\EGA_4.csproj|c:\\users\\\u043C\u0438\u0445\u0430\u0438\u043B\\desktop\\\u044D\u0433\u0430\\ega_lab\\ega_4\\ega_4\\monte_carlo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,13 +42,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "CreateMap.cs",
               "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u042D\u0413\u0410\\EGA_Lab\\EGA_4\\EGA_4\\CreateMap.cs",
               "RelativeDocumentMoniker": "EGA_4\\CreateMap.cs",
               "ToolTip": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u042D\u0413\u0410\\EGA_Lab\\EGA_4\\EGA_4\\CreateMap.cs",
               "RelativeToolTip": "EGA_4\\CreateMap.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-25T07:35:41.534Z",
               "EditorCaption": ""
@@ -67,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Hill\u0421limbingWidth.cs",
               "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u042D\u0413\u0410\\EGA_Lab\\EGA_4\\EGA_4\\Hill\u0421limbingWidth.cs",
               "RelativeDocumentMoniker": "EGA_4\\Hill\u0421limbingWidth.cs",
@@ -75,8 +75,7 @@
               "RelativeToolTip": "EGA_4\\Hill\u0421limbingWidth.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAYwD4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-25T06:50:51.919Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-25T06:50:51.919Z"
             },
             {
               "$type": "Document",
@@ -92,13 +91,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MultipleLaunch.cs",
               "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u042D\u0413\u0410\\EGA_Lab\\EGA_4\\EGA_4\\MultipleLaunch.cs",
               "RelativeDocumentMoniker": "EGA_4\\MultipleLaunch.cs",
               "ToolTip": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u042D\u0413\u0410\\EGA_Lab\\EGA_4\\EGA_4\\MultipleLaunch.cs",
               "RelativeToolTip": "EGA_4\\MultipleLaunch.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwEsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-25T06:34:49.915Z",
               "EditorCaption": ""
