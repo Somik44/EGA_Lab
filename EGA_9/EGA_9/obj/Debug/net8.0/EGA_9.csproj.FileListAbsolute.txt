@@ -1,0 +1,15 @@
+C:\Users\Михаил\Desktop\ЭГА\EGA_Lab\EGA_9\EGA_9\bin\Debug\net8.0\EGA_9.exe
+C:\Users\Михаил\Desktop\ЭГА\EGA_Lab\EGA_9\EGA_9\bin\Debug\net8.0\EGA_9.deps.json
+C:\Users\Михаил\Desktop\ЭГА\EGA_Lab\EGA_9\EGA_9\bin\Debug\net8.0\EGA_9.runtimeconfig.json
+C:\Users\Михаил\Desktop\ЭГА\EGA_Lab\EGA_9\EGA_9\bin\Debug\net8.0\EGA_9.dll
+C:\Users\Михаил\Desktop\ЭГА\EGA_Lab\EGA_9\EGA_9\bin\Debug\net8.0\EGA_9.pdb
+C:\Users\Михаил\Desktop\ЭГА\EGA_Lab\EGA_9\EGA_9\obj\Debug\net8.0\EGA_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михаил\Desktop\ЭГА\EGA_Lab\EGA_9\EGA_9\obj\Debug\net8.0\EGA_9.AssemblyInfoInputs.cache
+C:\Users\Михаил\Desktop\ЭГА\EGA_Lab\EGA_9\EGA_9\obj\Debug\net8.0\EGA_9.AssemblyInfo.cs
+C:\Users\Михаил\Desktop\ЭГА\EGA_Lab\EGA_9\EGA_9\obj\Debug\net8.0\EGA_9.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\ЭГА\EGA_Lab\EGA_9\EGA_9\obj\Debug\net8.0\EGA_9.sourcelink.json
+C:\Users\Михаил\Desktop\ЭГА\EGA_Lab\EGA_9\EGA_9\obj\Debug\net8.0\EGA_9.dll
+C:\Users\Михаил\Desktop\ЭГА\EGA_Lab\EGA_9\EGA_9\obj\Debug\net8.0\refint\EGA_9.dll
+C:\Users\Михаил\Desktop\ЭГА\EGA_Lab\EGA_9\EGA_9\obj\Debug\net8.0\EGA_9.pdb
+C:\Users\Михаил\Desktop\ЭГА\EGA_Lab\EGA_9\EGA_9\obj\Debug\net8.0\EGA_9.genruntimeconfig.cache
+C:\Users\Михаил\Desktop\ЭГА\EGA_Lab\EGA_9\EGA_9\obj\Debug\net8.0\ref\EGA_9.dll

@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u042D\u0413\u0410\\EGA_Lab\\EGA_9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E56F12B6-56EF-48D4-8372-E14524D66A91}|EGA_9\\EGA_9.csproj|c:\\users\\\u043C\u0438\u0445\u0430\u0438\u043B\\desktop\\\u044D\u0433\u0430\\ega_lab\\ega_9\\ega_9\\tspnearestcitysolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E56F12B6-56EF-48D4-8372-E14524D66A91}|EGA_9\\EGA_9.csproj|solutionrelative:ega_9\\tspnearestcitysolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E56F12B6-56EF-48D4-8372-E14524D66A91}|EGA_9\\EGA_9.csproj|c:\\users\\\u043C\u0438\u0445\u0430\u0438\u043B\\desktop\\\u044D\u0433\u0430\\ega_lab\\ega_9\\ega_9\\tsproulette.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E56F12B6-56EF-48D4-8372-E14524D66A91}|EGA_9\\EGA_9.csproj|solutionrelative:ega_9\\tsproulette.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E56F12B6-56EF-48D4-8372-E14524D66A91}|EGA_9\\EGA_9.csproj|c:\\users\\\u043C\u0438\u0445\u0430\u0438\u043B\\desktop\\\u044D\u0433\u0430\\ega_lab\\ega_9\\ega_9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E56F12B6-56EF-48D4-8372-E14524D66A91}|EGA_9\\EGA_9.csproj|solutionrelative:ega_9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TspNearestCitySolver.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u042D\u0413\u0410\\EGA_Lab\\EGA_9\\EGA_9\\TspNearestCitySolver.cs",
+              "RelativeDocumentMoniker": "EGA_9\\TspNearestCitySolver.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u042D\u0413\u0410\\EGA_Lab\\EGA_9\\EGA_9\\TspNearestCitySolver.cs*",
+              "RelativeToolTip": "EGA_9\\TspNearestCitySolver.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T12:38:35.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TspRoulette.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u042D\u0413\u0410\\EGA_Lab\\EGA_9\\EGA_9\\TspRoulette.cs",
+              "RelativeDocumentMoniker": "EGA_9\\TspRoulette.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u042D\u0413\u0410\\EGA_Lab\\EGA_9\\EGA_9\\TspRoulette.cs",
+              "RelativeToolTip": "EGA_9\\TspRoulette.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwD4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T12:22:07.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u042D\u0413\u0410\\EGA_Lab\\EGA_9\\EGA_9\\Program.cs",
+              "RelativeDocumentMoniker": "EGA_9\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u042D\u0413\u0410\\EGA_Lab\\EGA_9\\EGA_9\\Program.cs",
+              "RelativeToolTip": "EGA_9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T08:20:59.804Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
