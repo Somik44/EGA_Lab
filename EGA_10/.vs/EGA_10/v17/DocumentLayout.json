@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\C#\\\u042D\u0413\u0410\\EGA_Lab\\EGA_10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07615C3D-721B-4D45-AD31-E1C8AB07849E}|EGA_10\\EGA_10.csproj|c:\\users\\\u043C\u0438\u0445\u0430\u0438\u043B\\desktop\\\u0443\u0447\u0435\u0431\u0430\\c#\\\u044D\u0433\u0430\\ega_lab\\ega_10\\ega_10\\ega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07615C3D-721B-4D45-AD31-E1C8AB07849E}|EGA_10\\EGA_10.csproj|solutionrelative:ega_10\\ega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07615C3D-721B-4D45-AD31-E1C8AB07849E}|EGA_10\\EGA_10.csproj|c:\\users\\\u043C\u0438\u0445\u0430\u0438\u043B\\desktop\\\u0443\u0447\u0435\u0431\u0430\\c#\\\u044D\u0433\u0430\\ega_lab\\ega_10\\ega_10\\roulette.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07615C3D-721B-4D45-AD31-E1C8AB07849E}|EGA_10\\EGA_10.csproj|solutionrelative:ega_10\\roulette.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07615C3D-721B-4D45-AD31-E1C8AB07849E}|EGA_10\\EGA_10.csproj|c:\\users\\\u043C\u0438\u0445\u0430\u0438\u043B\\desktop\\\u0443\u0447\u0435\u0431\u0430\\c#\\\u044D\u0433\u0430\\ega_lab\\ega_10\\ega_10\\tspnearestneighborsolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07615C3D-721B-4D45-AD31-E1C8AB07849E}|EGA_10\\EGA_10.csproj|solutionrelative:ega_10\\tspnearestneighborsolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07615C3D-721B-4D45-AD31-E1C8AB07849E}|EGA_10\\EGA_10.csproj|c:\\users\\\u043C\u0438\u0445\u0430\u0438\u043B\\desktop\\\u0443\u0447\u0435\u0431\u0430\\c#\\\u044D\u0433\u0430\\ega_lab\\ega_10\\ega_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07615C3D-721B-4D45-AD31-E1C8AB07849E}|EGA_10\\EGA_10.csproj|solutionrelative:ega_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TspNearestNeighborSolver.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\C#\\\u042D\u0413\u0410\\EGA_Lab\\EGA_10\\EGA_10\\TspNearestNeighborSolver.cs",
+              "RelativeDocumentMoniker": "EGA_10\\TspNearestNeighborSolver.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\C#\\\u042D\u0413\u0410\\EGA_Lab\\EGA_10\\EGA_10\\TspNearestNeighborSolver.cs",
+              "RelativeToolTip": "EGA_10\\TspNearestNeighborSolver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T16:59:21.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Roulette.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\C#\\\u042D\u0413\u0410\\EGA_Lab\\EGA_10\\EGA_10\\Roulette.cs",
+              "RelativeDocumentMoniker": "EGA_10\\Roulette.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\C#\\\u042D\u0413\u0410\\EGA_Lab\\EGA_10\\EGA_10\\Roulette.cs",
+              "RelativeToolTip": "EGA_10\\Roulette.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAuwD8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T16:35:05.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EGA.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\C#\\\u042D\u0413\u0410\\EGA_Lab\\EGA_10\\EGA_10\\EGA.cs",
+              "RelativeDocumentMoniker": "EGA_10\\EGA.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\C#\\\u042D\u0413\u0410\\EGA_Lab\\EGA_10\\EGA_10\\EGA.cs",
+              "RelativeToolTip": "EGA_10\\EGA.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwJQAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T15:48:15.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\C#\\\u042D\u0413\u0410\\EGA_Lab\\EGA_10\\EGA_10\\Program.cs",
+              "RelativeDocumentMoniker": "EGA_10\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\C#\\\u042D\u0413\u0410\\EGA_Lab\\EGA_10\\EGA_10\\Program.cs",
+              "RelativeToolTip": "EGA_10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T15:18:04.823Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
