@@ -9,6 +9,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{31410A18-BC4B-4ED9-AE7C-C3C3AA933455}|EGA_6\\EGA_6.csproj|c:\\users\\\u043C\u0438\u0445\u0430\u0438\u043B\\desktop\\\u044D\u0433\u0430\\ega_lab\\ega_6\\ega_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31410A18-BC4B-4ED9-AE7C-C3C3AA933455}|EGA_6\\EGA_6.csproj|solutionrelative:ega_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31410A18-BC4B-4ED9-AE7C-C3C3AA933455}|EGA_6\\EGA_6.csproj|c:\\users\\\u043C\u0438\u0445\u0430\u0438\u043B\\desktop\\\u044D\u0433\u0430\\ega_lab\\ega_6\\ega_6\\matrixreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31410A18-BC4B-4ED9-AE7C-C3C3AA933455}|EGA_6\\EGA_6.csproj|solutionrelative:ega_6\\matrixreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31410A18-BC4B-4ED9-AE7C-C3C3AA933455}|EGA_6\\EGA_6.csproj|c:\\users\\\u043C\u0438\u0445\u0430\u0438\u043B\\desktop\\\u044D\u0433\u0430\\ega_lab\\ega_6\\ega_6\\matrixtest.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{31410A18-BC4B-4ED9-AE7C-C3C3AA933455}|EGA_6\\EGA_6.csproj|solutionrelative:ega_6\\matrixtest.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +26,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MatrixReader.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u042D\u0413\u0410\\EGA_Lab\\EGA_6\\EGA_6\\MatrixReader.cs",
+              "RelativeDocumentMoniker": "EGA_6\\MatrixReader.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u042D\u0413\u0410\\EGA_Lab\\EGA_6\\EGA_6\\MatrixReader.cs",
+              "RelativeToolTip": "EGA_6\\MatrixReader.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T08:07:52.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MatrixTest.txt",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u042D\u0413\u0410\\EGA_Lab\\EGA_6\\EGA_6\\MatrixTest.txt",
+              "RelativeDocumentMoniker": "EGA_6\\MatrixTest.txt",
+              "ToolTip": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u042D\u0413\u0410\\EGA_Lab\\EGA_6\\EGA_6\\MatrixTest.txt",
+              "RelativeToolTip": "EGA_6\\MatrixTest.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-10-06T08:07:50.16Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -32,7 +66,7 @@
               "RelativeDocumentMoniker": "EGA_6\\TspSolver.cs",
               "ToolTip": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u042D\u0413\u0410\\EGA_Lab\\EGA_6\\EGA_6\\TspSolver.cs",
               "RelativeToolTip": "EGA_6\\TspSolver.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAQwF8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAYAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-02T06:22:00.391Z",
               "EditorCaption": ""
@@ -45,7 +79,7 @@
               "RelativeDocumentMoniker": "EGA_6\\Program.cs",
               "ToolTip": "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Desktop\\\u042D\u0413\u0410\\EGA_Lab\\EGA_6\\EGA_6\\Program.cs",
               "RelativeToolTip": "EGA_6\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-02T06:17:15.318Z",
               "EditorCaption": ""

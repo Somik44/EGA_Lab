@@ -28,11 +28,9 @@ namespace EGA_10
 
             double value = rnd.NextDouble() * sum;
 
-            Console.WriteLine();
             for (int i = 0; i < notInWay.Count; i++)
             {
                 double w = intervals[i + 1] - intervals[i];
-                Console.WriteLine($"    Город {notInWay[i]}: P = {w / sum:P2}");
             }
 
             for (int i = 0; i < intervals.Count - 1; i++)
@@ -58,7 +56,7 @@ namespace EGA_10
             return (parent1, parent2);
         }
 
-        private static Individ RouletteSelect(List<Individ> pop)
+        public static Individ RouletteSelect(List<Individ> pop)
         {
             double sum = pop.Sum(x => x.Fitness);
             double value = rnd.NextDouble() * sum;

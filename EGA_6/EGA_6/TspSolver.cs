@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EGA_5
+namespace EGA_6
 {
     internal class TspSolver
     {
